@@ -1,2 +1,4 @@
 # NishitaSite
-theme: architect
+theme: minima
+minima:
+  skin: dark
