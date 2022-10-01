@@ -1,4 +1,3 @@
 # NishitaSite
-theme: minima
-minima:
+theme: minima:
 skin: dark
