@@ -1,1 +1,2 @@
 # NishitaSite
+theme: minima
