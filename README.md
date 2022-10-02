@@ -1,5 +1,3 @@
-`#0969DA`
-
 # NishitaSite
 ---
 ## Food
