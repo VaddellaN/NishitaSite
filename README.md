@@ -1,6 +1,6 @@
 # NishitaSite
 ---
-Food
+## Food
 ---
 
 [Some of my favorite chicken dishes include chicken alfredo pasta (recipe below) and Hyderbad chicken byriani (pictured below).]
@@ -23,7 +23,7 @@ In the bowl of a stand mixer fitted with whisk attachment, beat 6 eggs on high s
 ![image](https://user-images.githubusercontent.com/114502765/193473576-91e8a74d-de3a-4db1-bbd6-2b305710d34d.png)
 
 ---
-Travel
+## Travel
 ---
 
 [I really want to travel to Madrid, Spain for the incredible architecture, food, culure, and nightlife. Here are some things I want to do there:]
